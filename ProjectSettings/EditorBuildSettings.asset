@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: "Assets/Scenes/giris ekran\u0131.unity"
+    guid: 283de99a0d0c7a149bb1a60326580ee5
+  - enabled: 1
+    path: Assets/Scenes/main.unity
+    guid: 205504809bdf3ad46a04c75097cac76e
+  - enabled: 1
+    path: Assets/Scenes/ayarlar.unity
+    guid: a11a6782c71b2174297a10f9af162237
+  - enabled: 1
+    path: Assets/Scenes/yapanlar.unity
+    guid: 40cb70b9171a28049b0a1e56c9283668
+  - enabled: 1
+    path: Assets/Scenes/oyun bitti.unity
+    guid: c2833f6e6417c1945bef863106481f94
+  - enabled: 1
+    path: Assets/Scenes/kazandin.unity
+    guid: a0cfa95ddcdab1140b527d3a53c51772
+  m_configObjects: {}
